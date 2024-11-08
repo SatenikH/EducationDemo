@@ -1,0 +1,12 @@
+# .vs folder
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
